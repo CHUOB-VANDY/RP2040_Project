@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "RP2040")(type "Legacy")(uri "D:/Kicad_Projects/Kicad_libs/RP2040/RP2040.lib")(options "")(descr ""))
+  (lib (name "MPU-6500")(type "Legacy")(uri "D:/Kicad_Projects/Kicad_libs/MPU-6500/MPU-6500.lib")(options "")(descr ""))
+  (lib (name "SN74AHC1G04")(type "KiCad")(uri "${KIPRJMOD}/SN74AHC1G04.kicad_sym")(options "")(descr ""))
+  (lib (name "MP1584EN")(type "Legacy")(uri "D:/Kicad_Projects/Kicad_libs/MP1584EN/MP1584EN.lib")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "RP2040")(type "KiCad")(uri "D:/Kicad_Projects/Kicad_libs/RP2040")(options "")(descr ""))
+  (lib (name "MPU-6500")(type "KiCad")(uri "D:/Kicad_Projects/Kicad_libs/MPU-6500")(options "")(descr ""))
+  (lib (name "MP1584EN")(type "KiCad")(uri "D:/Kicad_Projects/Kicad_libs/MP1584EN")(options "")(descr ""))
+)
